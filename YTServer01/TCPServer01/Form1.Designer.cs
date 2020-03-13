@@ -56,6 +56,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.btnSend = new System.Windows.Forms.Button();
             this.tbPayload = new System.Windows.Forms.TextBox();
+            this.label5 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.tableLayoutPanel2.SuspendLayout();
             this.tableLayoutPanel3.SuspendLayout();
@@ -135,6 +136,7 @@
             // panel1
             // 
             this.panel1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.panel1.Controls.Add(this.label5);
             this.panel1.Controls.Add(this.txtURL);
             this.panel1.Controls.Add(this.tableLayoutPanel2);
             this.panel1.Location = new System.Drawing.Point(6, 12);
@@ -340,6 +342,15 @@
             this.tbPayload.Size = new System.Drawing.Size(175, 20);
             this.tbPayload.TabIndex = 5;
             // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(33, 202);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(87, 13);
+            this.label5.TabIndex = 2;
+            this.label5.Text = "URL To visit ---->";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -404,6 +415,7 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button btnSend;
         private System.Windows.Forms.TextBox tbPayload;
+        private System.Windows.Forms.Label label5;
     }
 }
 
