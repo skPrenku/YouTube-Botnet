@@ -1,0 +1,26 @@
+c:\users\naeem\documents\visual studio 2010\Projects\TCPClient01\TCPClient01\bin\Debug\TCPClient01.exe
+c:\users\naeem\documents\visual studio 2010\Projects\TCPClient01\TCPClient01\bin\Debug\TCPClient01.pdb
+c:\users\naeem\documents\visual studio 2010\Projects\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.Form1.resources
+c:\users\naeem\documents\visual studio 2010\Projects\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.Properties.Resources.resources
+c:\users\naeem\documents\visual studio 2010\Projects\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.csproj.GenerateResource.Cache
+c:\users\naeem\documents\visual studio 2010\Projects\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.exe
+c:\users\naeem\documents\visual studio 2010\Projects\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.pdb
+C:\Users\Naeem\Documents\Visual Studio 2010\Projects\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.csprojResolveAssemblyReference.cache
+C:\Users\Naeem Akram\Documents\Visual Studio 2015\Projects\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.exe
+C:\Users\Naeem Akram\Documents\Visual Studio 2015\Projects\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.pdb
+C:\Users\Naeem Akram\Documents\Visual Studio 2015\Projects\TCPClient01\TCPClient01\bin\Debug\TCPClient01.exe
+C:\Users\Naeem Akram\Documents\Visual Studio 2015\Projects\TCPClient01\TCPClient01\bin\Debug\TCPClient01.pdb
+C:\Users\Naeem Akram\Documents\Visual Studio 2015\Projects\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.csprojResolveAssemblyReference.cache
+C:\Users\Naeem Akram\Documents\Visual Studio 2015\Projects\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.Form1.resources
+C:\Users\Naeem Akram\Documents\Visual Studio 2015\Projects\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.Properties.Resources.resources
+C:\Users\Naeem Akram\Documents\Visual Studio 2015\Projects\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\TCPClient01\TCPClient01\bin\Debug\TCPClient01.exe
+C:\Users\admin\Desktop\TCPClient01\TCPClient01\bin\Debug\TCPClient01.pdb
+C:\Users\admin\Desktop\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.Form1.resources
+C:\Users\admin\Desktop\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.Properties.Resources.resources
+C:\Users\admin\Desktop\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.exe
+C:\Users\admin\Desktop\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.pdb
+C:\Users\admin\Desktop\TCPClient01\TCPClient01\bin\Debug\TCPClient01.exe.config
