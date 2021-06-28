@@ -1,5 +1,6 @@
 # YouTube-Botnet
 Server/Client
+![alt text](https://github.com/ilirPrenku/YouTube-Botnet/blob/master/Botnet-Client-Server.png)
 -----------------------------------
 A simple Botnet to manage a stable amount of clients to view remote Youtube URLs.
 
